@@ -1,4 +1,4 @@
 name = input("What's your name? ")
 color = input("What's your favorite color? ")
-
-print(f"Hello, {name}! Your favorite color is, {color} and its awesome! 🎨😊")
+game = input("What's your favorite game? ")
+print(f"Hello, my name is {name} my favorite color is, {color} and my favorite game is, {game}! 🎨🎮😊")
